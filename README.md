@@ -5,3 +5,4 @@
 
 ## Quick Exercise by yourself
 2. Go to level1/level2 and edit the file to say "Got it!"
+git it got it good?!
